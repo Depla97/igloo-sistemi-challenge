@@ -133,5 +133,5 @@ CHANNEL_LAYERS = {
     }
 }
 
-LOGIN_REDIRECT_URL = "chat-page"
+LOGIN_REDIRECT_URL = "chatroom_selection"
 LOGOUT_REDIRECT_URL = "login-user"
